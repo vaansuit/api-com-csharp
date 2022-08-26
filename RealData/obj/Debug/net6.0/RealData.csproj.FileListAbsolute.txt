@@ -1,0 +1,14 @@
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\bin\Debug\net6.0\RealData.deps.json
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\bin\Debug\net6.0\RealData.dll
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\bin\Debug\net6.0\RealData.pdb
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\obj\Debug\net6.0\RealData.csproj.AssemblyReference.cache
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\obj\Debug\net6.0\RealData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\obj\Debug\net6.0\RealData.AssemblyInfoInputs.cache
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\obj\Debug\net6.0\RealData.AssemblyInfo.cs
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\obj\Debug\net6.0\RealData.csproj.CoreCompileInputs.cache
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\obj\Debug\net6.0\RealData.dll
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\obj\Debug\net6.0\refint\RealData.dll
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\obj\Debug\net6.0\RealData.pdb
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\obj\Debug\net6.0\ref\RealData.dll
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\bin\Debug\net6.0\RealData.runtimeconfig.json
+C:\Users\victor.vansuit\Documents\api\WebApi\RealData\obj\Debug\net6.0\RealData.genruntimeconfig.cache
