@@ -35,7 +35,12 @@ namespace RealData.NewFolder
 
         public virtual string Delete(int id)
         {
-            return "Deletado";
+            using (WarrenContext warrenContext = new WarrenContext())
+            {
+                warrenContext.Entry<T>(this.GetById(id)).State = Microsoft.EntityFrameworkCore.EntityState.Deleted;
+                warrenContext.SaveChanges();
+            }
+            return "Deletado pourran";
         }
 
        
@@ -53,6 +58,12 @@ namespace RealData.NewFolder
 
         public virtual string Update(T model)
         {
+            using(WarrenContext warrenContext = new WarrenContext())
+            {
+                warrenContext.Entry<T>(model).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+                warrenContext.SaveChanges();
+            }
+
             return "Alterado";
         }
     }
