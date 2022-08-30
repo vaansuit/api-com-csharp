@@ -14,11 +14,13 @@ namespace RealData.Context
         public DbSet<Animal> Animais { get; set; } //Animais ficou o nome da tabela
         public DbSet<Planta> Planta { get; set; }
 
+        public DbSet<Usuario> Usuario { get; set; }
+
         #endregion
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Host= localhost; Port= 5434; Database= postgres; Password= 123; UserId=postgres;");
+            optionsBuilder.UseNpgsql("Host= 192.168.0.158; Port= 5434; Database= postgres; Password= 123; UserId=postgres;");
         }
-    }
+    } 
 }
